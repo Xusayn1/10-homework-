@@ -26,6 +26,7 @@
 //     console.log(
 //         `${checked.id} - zakaz tayyor boldi\nSize: ${checked.size}, Type: ${checked.type}`
 //     )
+
 // }
 // pizza.forEach(function(val) {
 //     Order(val, Done)
